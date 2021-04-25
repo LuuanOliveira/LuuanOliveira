@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 I'm Luan, a 22 year old Developer from Brazil.
 
 More about me:
-- :rocket: I’m currently working on [@Capgemini](https://github.com/Capgemini)
 - :school: I’m formed in systems analysis and development
 - 📫 How to reach me: luuan.oliveira@hotmail.com
 <br/>
